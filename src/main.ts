@@ -34,7 +34,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 
   <div class="container text-center">
     <h1>Home page</h1>
-    <h2>Navega por el menu para ver cada uno de los ejercicios</h2>
+    <h2>Navega por el menu para ver cada uno de los ejercicios completos</h2>
   </div>
 `
 
