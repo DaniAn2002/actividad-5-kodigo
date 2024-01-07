@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik+Doodle+Shadow&family=Rubik+Maps&display=swap');
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.doodle {
+    font-family: 'Rubik Doodle Shadow', system-ui;
+}
+
+.maps {
+    font-family: 'Rubik Maps', system-ui;
+}
+
+.titulo_derecha {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.titulo_izquierda {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.titulo_centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background{
+    background-color: rgb(146, 140, 140);
+}
